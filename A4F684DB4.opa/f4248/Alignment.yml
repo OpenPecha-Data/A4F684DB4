@@ -1,0 +1,19 @@
+segment_sources:
+  I94542941:
+    type: origin_type
+    relation: translation
+    language: en
+  I94D704BA:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  07c7be938a4d4fd29334f336063e4c5c:
+    I94542941: d6959400c7af43b3846ec94cf90f7961
+    I94D704BA: 2cd80d17ac914f3a94de741b2433ab97
+  48b3053689b54e51af0a7a2b43a25acf:
+    I94542941: ab43e2c28dfc49c2943bebc29a78125d
+    I94D704BA: b9005077b3a14993a8b7d679b9e349c3
+  9ea9100d421d4b8095432b9aebf2ef61:
+    I94542941: 933ba9ba48fe4b5d8c43ab3e403a42c8
+    I94D704BA: 56f5608b1ff149728748b44f925f7172
